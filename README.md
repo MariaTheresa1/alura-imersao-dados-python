@@ -15,7 +15,6 @@ Link do deploy do app na streamlit https://mariatheresa1-alura-imersao-dados-pyt
 - Instalar as bibliotecas necessárias
 `pip install -r requirements.txt`
 - Comando para executar o app: 
-`streamlit run app.py`
-Geralmente disponível em http://localhost:8501
+`streamlit run app.py`, geralmente disponível em http://localhost:8501
 
 2. Para fazer o deploy, basta criar uma conta no streamlit, vincular com sua conta no github e subir o projeto. 
