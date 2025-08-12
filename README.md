@@ -17,4 +17,6 @@ Link do deploy do app na streamlit https://mariatheresa1-alura-imersao-dados-pyt
 - Comando para executar o app: 
 `streamlit run app.py`, geralmente disponível em http://localhost:8501
 
-2. Para fazer o deploy, basta criar uma conta no streamlit, vincular com sua conta no github e subir o projeto. 
+2. Para fazer o deploy, basta criar uma conta no streamlit, vincular com sua conta no github e subir o projeto.
+
+Link do projeto no colab referentes às outras atividades do curso usando a mesma base de dados: [Projeto Colab Imersão de Dados com Python Alura](https://colab.research.google.com/drive/1ZjwGAIjIT12sJtukYOROtNnFDCAouZ1j)
