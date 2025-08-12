@@ -10,7 +10,7 @@ Link do deploy do app na streamlit https://mariatheresa1-alura-imersao-dados-pyt
 - Criar o ambiente virtual:
 `py -m venv .venv`
 - Ativar o ambiente virtual em Windows:
-`.\.venv\Scripts\Activate.ps1`
+`.\.venv\Scripts\Activate`
 (Caso dê problema "O arquivo não pode ser carregado", comando para liberar a execução de scripts no PowerShell: `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`)
 - Instalar as bibliotecas necessárias
 `pip install -r requirements.txt`
